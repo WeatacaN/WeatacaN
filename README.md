@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Yiğit Ata Çankaya] 👋</h1>
+<h1 align="center">Hi, I'm Yiğit Ata Çankaya 👋</h1>
 
 <h3 align="center">Yönetim Bilişim Sistemleri Öğrencisi </h3>
 
