@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm [Yiğit Ata Çankaya] 👋</h1>
 
-<!--
-**WeatacaN/WeatacaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Yönetim Bilişim Sistemleri Öğrencisi </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me
+
+* Merhaba,
+
+İstanbul Gelişim Üniversitesi Bilgisayar Teknolojisi mezunuyum aynı Üniversitede Yönetim Bilişim Sistemleri Lisans programına devam etmekteyim, ve İstanbul Üniversitesi-Cerrahpaşa Web Tasarımı ve Kodlama programında eğitimime devam ediyorum. Eğitimlerimin yanında IBM AI Agents Bootcamp, HTML, Arduino, veri tabanı ve ağ alanlarında çeşitli programları tamamlayarak teknik altyapımı geliştirdim.
+
+Daha önce farklı bir alanda yaklaşık iki yıl çalışarak sorumluluk alma, iş takibi ve ekip çalışması konusunda deneyim kazandım. Şimdi kariyerimi bilişim alanında sürdürmek, öğrendiklerimi gerçek projelerde uygulamak ve kendimi geliştirmek istiyorum.
+
